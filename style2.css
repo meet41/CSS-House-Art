@@ -50,7 +50,7 @@ background-size: 1800% 1800%;
   display: grid;
   -ms-grid-rows: 1fr 1fr;
       grid-template-rows: 1fr 1fr;
-  overflow: auto;
+  /*overflow: auto;*/
   justify-content: center;
   /* position: relative; */
 }
